@@ -1,7 +1,8 @@
 this is a test project 1.1 with base master code
-.
-more lines have been added to counter merge conflict
-this is the operations team to see the webserver application
-<depedancy and distrubtuion config has been added>
-<policies need to updated to reflect the final code>
+this is a test version v3 
+to test merge conflicts 
+and to see if the code pushed to main master 
+branch without any conflicts 
+so if this works i understood the conflict 
+version and how to resolve them in basic level
 
