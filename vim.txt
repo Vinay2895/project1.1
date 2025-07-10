@@ -3,3 +3,10 @@ this to test merge conflicts with version v2
 this is addition of prev master code 
 justify this version v2 in a way to add this file
 to main branch with more updated info
+this is a test version v3 
+to test merge conflicts 
+and to see if the code pushed to main master 
+branch without any conflicts 
+so if this works i understood the conflict 
+version and how to resolve them in basic level
+
