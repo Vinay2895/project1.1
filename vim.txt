@@ -1,6 +1,5 @@
 this is a test project 1.1 with base master code
-information will be updated 
-thanks
+.
 more lines have been added to counter merge conflict
 this is the operations team to see the webserver application
 <depedancy and distrubtuion config has been added>
